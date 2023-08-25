@@ -12,13 +12,17 @@ class MainActivity : AppCompatActivity() {
         println("MAIN_AавCTIVITY0")
         println("MAIN_AавCTIVITY0")
 
-
         println("MAIN_ACTвыафвыаIVITY0")
         println("MAIN_ыфваваыфACTIVITY0")
         println("MAIN_ACTIVITY0")
         println("MAIN_ACTIVITY0")
         println("MAIN_ACTIVITY0")
-        println("MAIN_ACTIVITY0")
+        println("MAIN_dfakldjlkfjaslas jdnfkjsdfl kajsfafACTIVITY0")
+        println("MAIN_dfakldjlkfjaslas jdnfkjsdfl kajsfafACTIVITY0")
+        println("MAIN_dfakldjlkfjaslas jdnfkjsdfl kajsfafACTIVITY0")
+        println("MAIN_dfakldjlkfjaslas jdnfkjsdfl kajsfafACTIVITY0")
+        println("MAIN_dfakldjlkfjaslas jdnfkjsdfl kajsfafACTIVITY0")
+        println("MAIN_dfakldjlkfjaslas jdnfkjsdfl kajsfafACTIVITY0")
         println("MAIN_ACTIVITY0")
         println("MAIN_ACTIVITY0")
 
