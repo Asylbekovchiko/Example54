@@ -8,9 +8,17 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("MAIN_AавCTIVITY0")
+        println("MAIN_AавCTIVITY0")
+        println("MAIN_AавCTIVITY0")
+        println("MAIN_AавCTIVITY0")
+
 
         println("MAIN_ACTвыафвыаIVITY0")
         println("MAIN_ыфваваыфACTIVITY0")
+        println("MAIN_ACTIVITY0")
+        println("MAIN_ACTIVITY0")
+        println("MAIN_ACTIVITY0")
+        println("MAIN_ACTIVITY0")
         println("MAIN_ACTIVITY0")
         println("MAIN_ACTIVITY0")
 
